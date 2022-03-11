@@ -1,4 +1,6 @@
 # Seattle-airbnb
+You can refer the following post for detailed understanding (https://medium.com/@dineshengg028/seattle-airbnb-analysis-d4ccf1427a57)
+
 Project Introduction:
 
 The objective of this project is to go through, analyze and study Seattle AirBnB dataset. In order to do that, and after a brief analysis, I found three questions worth to respond which would cover some interesting aspects. The article I published on Medium cover these questions in a non-technical sense and summarizes the main points, while the code provided in this file contains all calculus and technical procedures.
